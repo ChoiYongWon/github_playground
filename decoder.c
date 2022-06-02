@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main() {
-	printf("Decoder Test2");
+	printf("Decoder Test3");
 	return 0;
 }
